@@ -1,0 +1,20 @@
+npm install  styled-components
+
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+
+vscode-styled-components (extensions)
+
+npm install firebase
+
+npm install email-validator
+
+npm install react-firebase-hooks
+
+npm install better-react-spinkit
+
+npm install timeago-react
+
+npm install moment
